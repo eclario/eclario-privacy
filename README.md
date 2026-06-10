@@ -1,0 +1,2 @@
+# eclario-privacy
+Privacy policy 
